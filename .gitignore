@@ -1,0 +1,22 @@
+# python cache
+__pycache__/
+*.py[cod]
+*.so
+
+# big dataset (should be in roboflow)
+dataset/
+images/
+labels/
+*.zip
+
+# log and database
+*.log
+*.sqlite
+
+# IDE file
+.vscode/
+.idea/
+
+# virtual environment files
+venv/
+env/
