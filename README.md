@@ -1,1 +1,1 @@
-# Waste-Detection-AI
+# 👁️ BinSight Project
